@@ -1,0 +1,10 @@
+python-telegram-bot
+diffusers
+transformers
+accelerate
+pillow
+requests
+torch
+fastapi
+pydantic
+timeout-decorator
