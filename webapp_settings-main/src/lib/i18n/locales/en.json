@@ -1,0 +1,13 @@
+{
+	"text_cfg": "Text CFG",
+	"image_cfg": "Image CFG",
+	"sampler": "Sampler",
+	"sampling_steps": "Sampling steps",
+	"fixed_seed": "Fix seed",
+	"random_seed": "Randomize seed",
+	"seed": "Seed",
+	"popup": {
+		"title": "Change AI premium",
+		"message": "Press buy to unlock new features!"
+	}
+}
