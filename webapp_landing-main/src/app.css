@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+	div {
+		@apply border-tg-hint;
+	}
+} */
+
+@font-face {
+	font-family: 'PlexMono';
+	font-style: normal;
+	/* font-weight: 400; */
+	/* src: url('/fonts/SpaceMono/SpaceMono-Regular.ttf'); */
+	src: url('/fonts/IBMPlexMono/IBMPlexMono-Regular.ttf');
+}
+
+@layer base {
+	p {
+		font-family: "PlexMono";
+	}
+}

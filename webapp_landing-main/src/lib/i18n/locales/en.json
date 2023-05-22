@@ -1,0 +1,30 @@
+{
+	"header": {
+		"first": "Go Pro with Change AI",
+		"second": "Unlock the full capabilities of industry-leading AI photo generation."
+	},
+	"free": {
+		"title": "Free",
+		"opitons": {
+			"1": "wait in queue",
+			"2": "10 images limit"
+		}
+	},
+	"pro": {
+		"title": "Pro - $8/mo",
+		"opitons": {
+			"1": "queue skip",
+			"2": "unlimited images",
+			"3": "advanced settings",
+			"4": "upscaling"
+		}
+	},
+	"buy_now": "Subscribe",
+	"assurance": "All transactions are secure.",
+	"cloudpayments": {
+		"price": "8",
+		"currency": "USD",
+		"language_code": "en-US",
+    "description": "Change AI monthly subscription"
+	}
+}
